@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "iPhone 12",
+    "year": 2020,
+    "storage": "64GB",
+    "color": "Black",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy S21 Ultra",
+    "year": 2021,
+    "storage": "128GB",
+    "color": "Phantom Silver",
+    "price": 1199
+  },
+  {
+    "id": 3,
+    "brand": "Google",
+    "model": "Pixel 5",
+    "year": 2020,
+    "storage": "128GB",
+    "color": "Just Black",
+    "price": 699
+  },
+  {
+    "id": 4,
+    "brand": "OnePlus",
+    "model": "9",
+    "year": 2021,
+    "storage": "256GB",
+    "color": "Astral Black",
+    "price": 799
+  },
+  {
+    "id": 5,
+    "brand": "Xiaomi",
+    "model": "Mi 11",
+    "year": 2021,
+    "storage": "128GB",
+    "color": "Midnight Gray",
+    "price": 699
+  },
+  {
+    "id": 6,
+    "brand": "Sony",
+    "model": "Xperia 1 III",
+    "year": 2021,
+    "storage": "256GB",
+    "color": "Frosted Black",
+    "price": 1199
+  },
+  {
+    "id": 7,
+    "brand": "LG",
+    "model": "Velvet",
+    "year": 2020,
+    "storage": "128GB",
+    "color": "Aurora Gray",
+    "price": 599
+  },
+  {
+    "id": 8,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "year": 2020,
+    "storage": "256GB",
+    "color": "Deep Sea Blue",
+    "price": 799
+  },
+  {
+    "id": 9,
+    "brand": "Motorola",
+    "model": "Moto G Power",
+    "year": 2020,
+    "storage": "64GB",
+    "color": "Smoke Black",
+    "price": 249
+  },
+  {
+    "id": 10,
+    "brand": "Nokia",
+    "model": "8.3 5G",
+    "year": 2020,
+    "storage": "128GB",
+    "color": "Polar Night",
+    "price": 599
+  }
+]
